@@ -10,7 +10,7 @@
   "author": "",
   "license": "ISC",
   "packageManager": "pnpm@10.7.0",
-  "gitHead": "814b43ceb929f1566623b09b1bd9327770c59b5b",
+  "gitHead": "efdda7003ac4b8c7894b5f911143c84910387e74",
   "publishConfig": {
     "access": "public"
   }
