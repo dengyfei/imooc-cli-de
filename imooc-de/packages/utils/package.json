@@ -2,7 +2,8 @@
   "name": "@imooc-de/utils",
   "version": "0.0.4",
   "description": "",
-  "main": "index.js",
+  "main": "lib/index.js",
+  "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
